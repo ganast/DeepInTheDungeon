@@ -27,7 +27,11 @@ Task list
 
 4) Test the first version of the game, when ready, and write history information about it in the history.txt file.
 
+<<<<<<< HEAD
 	Assigned to: Koloneros Nikolaos 
+=======
+	Assigned to: Alex Mitropoulos
+>>>>>>> 4f44039e93a80a442632eff0650090657df20af0
 
 5) Write inspired descriptions for rooms, items and events in the game in a separate text file, to be added in code later.
 
@@ -35,7 +39,7 @@ Task list
 
 6) Write down the game's script, from start to finish, including dead-end choices, in a separate text file.
 
-	Assigned to: Alex Kalfoglou
+	Assigned to: Alex Kalfoglou , Koloneros Nikolaos 
 
 7) Read about GPL v3 licensing and add/update license information in *all* files in the project.
 
