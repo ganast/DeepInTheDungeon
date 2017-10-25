@@ -35,7 +35,7 @@ Task list
 
 6) Write down the game's script, from start to finish, including dead-end choices, in a separate text file.
 
-	Assigned to:
+	Assigned to: Alex Kalfoglou
 
 7) Read about GPL v3 licensing and add/update license information in *all* files in the project.
 
