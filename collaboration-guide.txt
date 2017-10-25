@@ -19,7 +19,7 @@ Task list
 
 2) Write gameplay instructions in the README file.
 
-	Assigned to: Noah, Konstantina Ndrecka
+	Assigned to: Noah
 
 3) Add the basic codebase for the game.
 
@@ -35,7 +35,7 @@ Task list
 
 6) Write down the game's script, from start to finish, including dead-end choices, in a separate text file.
 
-	Assigned to:
+	Assigned to: Konstantina Ndrecka
 
 7) Read about GPL v3 licensing and add/update license information in *all* files in the project.
 
