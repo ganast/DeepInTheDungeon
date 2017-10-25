@@ -39,7 +39,7 @@ Task list
 
 7) Read about GPL v3 licensing and add/update license information in *all* files in the project.
 
-	Assigned to:
+	Assigned to:Tony667
 
 
 Contact
