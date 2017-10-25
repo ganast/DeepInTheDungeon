@@ -16,18 +16,18 @@ Task list
 1) Update the .gitignore file for Visual Studio and C#.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Assigned to: 
 =======
 	Assigned to:Konstantina Ndrecka
 >>>>>>> 4fb77001605202fa399ac120c0385e7d3a743cb7
+=======
+	Assigned to: Konstantina Ndrecka
+>>>>>>> 59090bb1b26e5ed1ab449fe1dc51cbeacc0fc742
 
 2) Write gameplay instructions in the README file.
 
-<<<<<<< HEAD
 	Assigned to: Christos Galeos
-=======
-	Assigned to: Noah
->>>>>>> 9c81c51917c83538f78bd7dc5cc6f6f182c939e3
 
 3) Add the basic codebase for the game.
 
@@ -35,7 +35,7 @@ Task list
 
 4) Test the first version of the game, when ready, and write history information about it in the history.txt file.
 
-	Assigned to: 
+	Assigned to: Konstantina Ndrecka
 
 5) Write inspired descriptions for rooms, items and events in the game in a separate text file, to be added in code later.
 
@@ -43,11 +43,11 @@ Task list
 
 6) Write down the game's script, from start to finish, including dead-end choices, in a separate text file.
 
-	Assigned to:
+	Assigned to: Alex Kalfoglou
 
 7) Read about GPL v3 licensing and add/update license information in *all* files in the project.
 
-	Assigned to:
+	Assigned to: Tony667
 
 
 Contact
