@@ -15,7 +15,7 @@ Task list
 
 1) Update the .gitignore file for Visual Studio and C#.
 
-	Assigned to:Konstantina Ndrecka
+	Assigned to: Konstantina Ndrecka
 
 2) Write gameplay instructions in the README file.
 
