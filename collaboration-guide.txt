@@ -35,14 +35,14 @@ Task list
 
 6) Write down the game's script, from start to finish, including dead-end choices, in a separate text file.
 
-	Assigned to: Alex Kalfoglou
+	Assigned to: Alex Kalfoglou , Koloneros Nikolaos
 
 7) Read about GPL v3 licensing and add/update license information in *all* files in the project.
 
 	Assigned to: Antonis Oikonomou
 
 
-Contact
+Contact 
 -------
 
 For questions and comments, please contact the students of BGP1016, SAE Athens.
