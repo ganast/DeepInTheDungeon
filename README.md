@@ -1,6 +1,6 @@
 You wake up in a dark room, deep in the dungeon.
 Your quest is to go deeper and deeper in it gathering useful information and items that will help you progress.
-Beware of the evil mobs as some of them are very powerful and posess inhuman dark powers.
+Beware of the evil mobs as some of them are very powerful and possess inhuman dark powers.
 
 Controls: WASD & Mouse
 
