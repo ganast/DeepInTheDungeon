@@ -19,7 +19,11 @@ Task list
 
 2) Write gameplay instructions in the README file.
 
+<<<<<<< HEAD
 	Assigned to: Christos Galeos
+=======
+	Assigned to: Noah
+>>>>>>> 9c81c51917c83538f78bd7dc5cc6f6f182c939e3
 
 3) Add the basic codebase for the game.
 
