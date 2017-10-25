@@ -15,11 +15,11 @@ Task list
 
 1) Update the .gitignore file for Visual Studio and C#.
 
-	Assigned to: Christos Galaios
+	Assigned to: Konstantina Ndrecka
 
 2) Write gameplay instructions in the README file.
 
-	Assigned to: Koloneros Nikos
+	Assigned to: Noah
 
 3) Add the basic codebase for the game.
 
@@ -39,7 +39,7 @@ Task list
 
 7) Read about GPL v3 licensing and add/update license information in *all* files in the project.
 
-	Assigned to:
+	Assigned to: Tony667
 
 
 Contact
