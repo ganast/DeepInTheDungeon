@@ -27,7 +27,7 @@ Task list
 
 4) Test the first version of the game, when ready, and write history information about it in the history.txt file.
 
-	Assigned to: Konstantina Ndrecka
+	Assigned to: Koloneros Nikolaos 
 
 5) Write inspired descriptions for rooms, items and events in the game in a separate text file, to be added in code later.
 
