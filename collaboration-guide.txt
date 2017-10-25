@@ -15,7 +15,7 @@ Task list
 
 1) Update the .gitignore file for Visual Studio and C#.
 
-	Assigned to: Christos Galaios
+	Assigned to: Christos Galaios, Konstantina Ndrecka
 
 2) Write gameplay instructions in the README file.
 
