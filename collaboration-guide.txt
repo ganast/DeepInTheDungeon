@@ -1,0 +1,49 @@
+General
+-------
+
+This guide describes how you should go about collaboratively developing this project.
+
+v1.0 George Anastassakis
+
+Claiming tasks
+--------------
+
+Each one of the following list of tasks can be assigned to one person only. To claim a task fill-in your name and surname in the respective field. This will allow you to test collaborative development on the same file via a remote repository. Also, it will allow you to test conflict resolution (since there are more people than tasks, at least one conflict is certain to happen (to find out more, read about the pigeonhole principle)).
+
+Task list
+---------
+
+1) Update the .gitignore file for Visual Studio and C#.
+
+	Assigned to:
+
+2) Write gameplay instructions in the README file.
+
+	Assigned to:
+
+3) Add the basic codebase for the game.
+
+	Assigned to: ganast
+
+4) Test the first version of the game, when ready, and write history information about it in the history.txt file.
+
+	Assigned to: 
+
+5) Write inspired descriptions for rooms, items and events in the game in a separate text file, to be added in code later.
+
+	Assigned to:
+
+6) Write down the game's script, from start to finish, including dead-end choices, in a separate text file.
+
+	Assigned to:
+
+7) Read about GPL v3 licensing and add/update license information in *all* files in the project.
+
+	Assigned to:
+
+
+Contact
+-------
+
+For questions and comments, please contact the students of BGP1016, SAE Athens.
+
