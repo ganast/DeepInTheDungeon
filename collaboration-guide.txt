@@ -31,7 +31,7 @@ Task list
 
 5) Write inspired descriptions for rooms, items and events in the game in a separate text file, to be added in code later.
 
-	Assigned to: Antonis Oikonomou
+	Assigned to: Giannis Kopanou
 
 6) Write down the game's script, from start to finish, including dead-end choices, in a separate text file.
 
